@@ -1,13 +1,22 @@
 • I have implemented and simulated an Internet network in Cisco packet tracer Student.
+
 • I have used the Router – PT, because it has all the necessary ports pre – installed, so it is much more convenient to use.
+
 • For switches, I have used the generic 2950 – 24 switch, which has 24 ports.
+
 • For end devices, I have used generic laptops for the same.
+
 • For connection between an end device and a switch, I have used the Copper – Straight through cable.
+
 • For connection between a router and a switch, I have used a Copper – Straight through cable.
-• For connections between 2 routers, I have used either Optic Fiber or Serial DCE cable
+
+• For connections between 2 routers, I have used either Optic Fiber or Serial DCE cable.
+
 o Note that I have prioritized using the Optic fiber cable rather than the Serial DCE cable.
+
 o I have done this in such a way because the Optic fiber is much more faster than the Serial cable in terms of transferring data.
-• The steps I followed
+
+• The steps I followed:
 
 1.  Setting up a laptop and the corresponding router:+
    
