@@ -45,3 +45,7 @@ o I have done this in such a way because the Optic fiber is much more faster tha
             i. The IPs of 2 connected routers must be in the same network as well.
             ii. If the IP of the first router is “192.168.2.1” then, the IP of the second router can be “192.168.2.2”
             iii. The network address of these IPs must be added to the RIP table of both the routers.
+
+![image](https://github.com/SkeyPr/Routing_Example/assets/118352620/b0a10541-d948-44d4-94c5-3f1417982812)
+
+P.S. After downloading the file, wait for 4-5 minutes for all the routers to boot up. The first few data transmissions will be unsuccessful, however the latter ones will be successful.
