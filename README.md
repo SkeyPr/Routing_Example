@@ -9,15 +9,22 @@ o Note that I have prioritized using the Optic fiber cable rather than the Seria
 o I have done this in such a way because the Optic fiber is much more faster than the Serial cable in terms of transferring data.
 • The steps I followed
 
-1.  Setting up a laptop and the corresponding router:
+1.  Setting up a laptop and the corresponding router:+
+   
         a. Set the IP of the laptop IP to the desired IP
         b. Make sure to set the corresponding router port’s IP is on the same network as that of the laptop
         c. Set the “Default gateway” of the laptop to the IP of the connected router
-2.  Setting up 2 routers:
+    
+3.  Setting up 2 routers:
+   
         a. Make sure that when connecting 2 router’s their corresponding port’s Ips are on the same network
-3.  Router:
+    
+5.  Router:
+   
         a. Make sure to add the Network address of all the existing networks ofn the router to the RIP table
-4.  For example
+    
+7.  For example
+   
         a. Connection between a router and a laptop
             i. If the IP of the laptop is “192.168.1.1”
             ii. The IP of the corresponding router can be anywhere on the same network, “192.168.1.2”
